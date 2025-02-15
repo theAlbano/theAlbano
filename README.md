@@ -66,7 +66,7 @@ Olá, me chamo Victor Albano! Sou estudante de Engenharia da Computação na FES
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAlbano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAlbano&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>
